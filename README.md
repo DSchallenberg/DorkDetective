@@ -27,4 +27,6 @@ The code currently uses German comments and variable names, but an English versi
 
 At this early stage, the use cases are limited, but the code has huge potential. With some added automation, web scraping (e.g. from the Google Hacking Database), and more, it could become a versatile Google dorks tool. That would make advanced Google searches accessible to anyone.
 
+Dork Detective was created during my Studies of Cyber Security Management at Hochschule Niederrhein, Germany. It wa screated for the course "Hackathon"
+
 
