@@ -5,11 +5,14 @@ The Code works with placeholder inside a lists, searches for all Google Dorks in
 
 If you add more placeholders to the list in python, you can make this program even more versatile. If you add more placeholders, respective input field will be added automatically added to the GUI and the search algorithm will look for them too. 
 
+**Image of the GUI**
 ![alt text](https://i.ibb.co/r07Drry/Dork1.png)
+**The list to add more placeholders**
 ![alt text](https://i.ibb.co/vVkjkQw/Dork2.png)
+**The JSON strucutre**
 ![alt text](https://i.ibb.co/Bn5V81k/Dork3.png)
 
 
-Code with English comments and variable names will follow
+Code with English comments and variable names will follow soon.
 
 At this stage the code is very minimalistic and the usecases are limited. But it has a huge potential. With some automation, webscraping (e.g. the GHDB Google Hacking Database) and so on, one could create a very versatile Google Dorks Tool to make advanced Google searches available to anyone. 
