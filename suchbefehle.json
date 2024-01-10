@@ -1,0 +1,23 @@
+[
+    {
+        "Google Suchbefehl": "<username> site:facebook.com",
+        "Erklärung": "Sucht nach dem spezifischen Benutzernamen auf Facebook."
+    },
+    {
+        "Google Suchbefehl": "<email>",
+        "Erklärung": "Sucht direkt nach der angegebenen E-Mail-Adresse."
+    },
+    {
+        "Google Suchbefehl": "intext:<username> filetype:pdf",
+        "Erklärung": "Sucht nach PDFs, die den spezifischen Benutzernamen im Text enthalten."
+    },
+    {
+        "Google Suchbefehl": "site:<website> <username>",
+        "Erklärung": "Sucht auf einer spezifischen Website nach dem angegebenen Benutzernamen."
+    },
+    {
+        "Google Suchbefehl": "related:<website>",
+        "Erklärung": "Zeigt Websites an, die der angegebenen URL ähnlich sind."
+    }
+    
+]
