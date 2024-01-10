@@ -1,9 +1,9 @@
 # DorkDetective
 **Ready for use Google Dorks at your fingertips**
 
-The Code works with placeholder inside a lists, searches for all Google Dorks inside the json file for which the input placeholders match. Then it returns the Google Dorks which match with filled in place holders, so the dorks can be copied and pasted. Also the Dorks includes German explanations. The explanations are also part of the json file. 
+This code works with placeholders inside a list. It searches a JSON file for all Google dorks that match the input placeholders. It then returns the matching Google dorks with the placeholders filled in, so the dorks can be copied and pasted. The dorks also include German explanations, which are stored in the JSON file.
 
-If you add more placeholders to the list in python, you can make this program even more versatile. If you add more placeholders, respective input field will be added automatically added to the GUI and the search algorithm will look for them too. 
+Adding more placeholders to the list in Python makes this program more versatile. Any new placeholders will automatically add input fields to the GUI, and the search algorithm will include them in its matching.
 
 **Image of the GUI**  <br>
 
@@ -22,6 +22,8 @@ If you add more placeholders to the list in python, you can make this program ev
 ![The JSON strucutre](https://i.ibb.co/Bn5V81k/Dork3.png) <br>
 
 
-Code with English comments and variable names will follow soon.
+The code currently uses German comments and variable names, but an English version is coming soon.
 
-At this stage the code is very minimalistic and the usecases are limited. But it has a huge potential. With some automation, webscraping (e.g. the GHDB Google Hacking Database) and so on, one could create a very versatile Google Dorks Tool to make advanced Google searches available to anyone. 
+At this early stage, the use cases are limited, but the code has huge potential. With some added automation, web scraping (e.g. from the Google Hacking Database), and more, it could become a versatile Google dorks tool. That would make advanced Google searches accessible to anyone.
+
+
