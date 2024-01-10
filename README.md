@@ -1,7 +1,7 @@
 # DorkDetective
 **Ready for use Google Dorks at your fingertips**
 
-This code works with placeholders inside a list. It searches a JSON file for all Google dorks that match the input placeholders. It then returns the matching Google dorks with the placeholders filled in, so the dorks can be copied and pasted. The dorks also include German explanations, which are stored in the JSON file.
+This code works with placeholders inside a list. It searches a JSON file for all Google dorks that match the input placeholders. It then returns the matching Google dorks with the placeholders filled in, so the dorks can be copied and pasted. The program also includes German explanations for each Dork, which are stored in the JSON file. Despite having under 50 lines of code excluding comments, the Python code is compact yet easy to read.
 
 Adding more placeholders to the list in Python makes this program more versatile. Any new placeholders will automatically add input fields to the GUI, and the search algorithm will include them in its matching.
 
