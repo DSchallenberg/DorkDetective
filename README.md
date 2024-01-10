@@ -25,7 +25,7 @@ Adding more placeholders to the list in Python makes this program more versatile
 
 The code currently uses German comments and variable names, but an English version is coming soon.
 
-At this early stage, the use cases are limited, but the code has huge potential. With some added automation, web scraping (e.g. from the Google Hacking Database), and more, it could become a versatile Google dorks tool. That would make advanced Google searches accessible to anyone.
+At this early stage, the use cases are limited, but the code has huge potential. With the use of automation (either coded or with tools like Zapier or Make), web scraping (e.g. from the Google Hacking Database), and more, it could become a versatile Google dorks tool. That would make advanced Google searches accessible to anyone.
 
 **Background** <br>
 
