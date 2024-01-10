@@ -5,11 +5,10 @@ The Code works with placeholder inside a lists, searches for all Google Dorks in
 
 If you add more placeholders to the list in python, you can make this program even more versatile. If you add more placeholders, respective input field will be added automatically added to the GUI and the search algorithm will look for them too. 
 
-![alt text]([[http://url/to/img.png](https://ibb.co/h973zz8](https://i.ibb.co/r07Drry/Dork1.png)))
+![alt text](https://i.ibb.co/r07Drry/Dork1.png)
+![alt text](https://i.ibb.co/vVkjkQw/Dork2.png)
+![alt text](https://i.ibb.co/Bn5V81k/Dork3.png)
 
-![alt text]([http://url/to/img.png](https://i.ibb.co/vVkjkQw/Dork2.png)https://i.ibb.co/vVkjkQw/Dork2.png)
-
-![alt text]([[http://url/to/img.png](https://i.ibb.co/vVkjkQw/Dork2.png)https://i.ibb.co/vVkjkQw/Dork2.png](https://i.ibb.co/Bn5V81k/Dork3.png))
 
 Code with English comments and variable names will follow
 
