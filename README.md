@@ -7,15 +7,19 @@ If you add more placeholders to the list in python, you can make this program ev
 
 **Image of the GUI**  <br>
 
-![alt text](https://i.ibb.co/r07Drry/Dork1.png) <br>  
+![Image of the GUI](https://i.ibb.co/r07Drry/Dork1.png) <br>  
+
+**Copy&Pastable results with explanations**  <br>
+
+![Copy&Pastable results with explanations](https://i.ibb.co/X460TJg/Dork4.png) <br>
 
 **The list to add more placeholders**  <br>
 
-![alt text](https://i.ibb.co/vVkjkQw/Dork2.png) <br>
+![The list to add more placeholders](https://i.ibb.co/vVkjkQw/Dork2.png) <br>
 
 **The JSON strucutre** <br> 
 
-![alt text](https://i.ibb.co/Bn5V81k/Dork3.png) <br>
+![The JSON strucutre](https://i.ibb.co/Bn5V81k/Dork3.png) <br>
 
 
 Code with English comments and variable names will follow soon.
