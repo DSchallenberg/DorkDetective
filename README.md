@@ -36,7 +36,7 @@ At this early stage, the use cases are limited, but the code has huge potential.
 **pandas** for reading the JSON file of dork templates <br>
 
 **App class** contains the main application logic <br>
-__init__ method:<br>
+**__init__ method:** <br>
 Sets up the main window - title, icon, etc. <br>
 Loads dork template data from a JSON file into a Pandas DataFrame <br>
 Defines a list of placeholder strings used in the templates <br>
