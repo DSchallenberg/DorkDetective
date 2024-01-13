@@ -14,7 +14,7 @@ Adding more placeholders to the list in Python makes this program more versatile
 
 ![Copy&Pastable results with explanations](https://i.ibb.co/X460TJg/Dork4.png) <br>
 
-## The list to add more placeholders**  
+## The list to add more placeholders  
 
 ![The list to add more placeholders](https://i.ibb.co/vVkjkQw/Dork2.png) <br>
 
